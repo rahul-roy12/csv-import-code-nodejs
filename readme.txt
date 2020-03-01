@@ -6,6 +6,6 @@
 
 #NOTE: before running this code use need to increase upload_max_filesize = 10M (If it is less than 2MB that is by default in php.ini) because our csvdata.sql file is more than 2MB.
 
-#Need to increase max_allowed_packet=10MB (in my.ini) this is by default 1MB and the file which is we are importing is more than 2MB 
+#Need to increase max_allowed_packet=10MB (in my.ini) this is by default 1MB and the file which is we are importing is more than 2MB
 
 
